@@ -16,7 +16,6 @@ The project builds a secure, scalable, and cost-effective VPC infrastructure on 
 - **`scripts/`**: Bash scripts for automating EC2 and Grafana setup.
 - **`grafana/`**: Grafana configuration files, including dashboards and data source provisioning.
 - **`telegram-bot/`**: Python code for Telegram bot integration.
-- **`docs/`**: Project documentation, including the final report and setup guide.
 
 ## Setup Instructions
 
